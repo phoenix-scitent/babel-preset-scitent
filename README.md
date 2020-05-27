@@ -19,9 +19,10 @@ Simply add `scitent` to yours `.babelrc`:
 - [@babel/preset-env](https://babeljs.io/docs/en/babel-preset-env)
 
 ## Plugins
+- [@babel/plugin-transform-runtime](https://babeljs.io/docs/en/babel-plugin-transform-runtime)
 - [@babel/plugin-proposal-nullish-coalescing-operator](https://babeljs.io/docs/en/babel-plugin-proposal-nullish-coalescing-operator)
 - [@babel/plugin-proposal-optional-chaining](https://babeljs.io/docs/en/babel-plugin-proposal-optional-chaining)
-- [@babel/plugin-transform-runtime](https://babeljs.io/docs/en/babel-plugin-transform-runtime)
+- [babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver)
 
 ## License
 Copyright &copy; 2020 [Scitent](https://scitent.com).
