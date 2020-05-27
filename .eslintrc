@@ -1,0 +1,6 @@
+{
+  "extends": ["scitent"],
+  "rules": {
+    "global-require": 0
+  }
+}
